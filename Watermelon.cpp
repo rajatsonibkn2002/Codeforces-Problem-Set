@@ -1,3 +1,8 @@
+//Problem Link: http://codeforces.com/problemset/problem/4/A
+/*
+    Author: Rajat Soni
+*/
+
 #include <iostream>
 using namespace std;
 int main()
